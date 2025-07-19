@@ -1,2 +1,2 @@
-# ecommerce
+# Ecommerce
 E-commerce Django
